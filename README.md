@@ -1,1 +1,1 @@
-# 06.Introduction-to-Machine-Learning
+На основе данных предложить клиенту тариф.
